@@ -20,6 +20,7 @@ ui.log
 !legacy_no_squint_7.tre
 !legacy_wod_hd_ui.tre
 !legacy_base_00.tre
+!legacy_patch_00.tre
 
 // Ignore some cfg files that the player (or SwgClientSetup_r.exe) might like to edit
 live.cfg
